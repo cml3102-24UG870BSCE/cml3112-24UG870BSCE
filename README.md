@@ -4,7 +4,9 @@ Program: Bachelor of Science in Civil engineering
 About this program: This program contains my submission for Assignment 2. The main program is a Jupyter Notebook that reads a CSV file to perform basic data analysis using Python. It demonstrates how to upload a file, read it and repair common coding errors
 Files in this repository: 
 *proof_of_life.ipynb* - The main assignment notebook containing code and outputs
+
 *01_missing_module.ipynb* to *04_hidden_state.ipynb* - The four repaired notebooks from the Break and Fix Challenge
+
 *README.md* - The instruction file
 
 How to run this program: 
