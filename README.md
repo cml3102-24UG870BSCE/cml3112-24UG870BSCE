@@ -1,5 +1,5 @@
 Course code: CML 3112
-Program: Bachelor of Science in Civil engineerimg
+Program: Bachelor of Science in Civil engineering
 
 About this program: This program contains my submission for Assignment 2. The main program is a Jupyter Notebook that reads a CSV file to perform basic data analysis using Python. It demonstrates how to upload a file, read it and repair common coding errors
 Files in this repository: 
